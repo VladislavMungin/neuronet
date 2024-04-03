@@ -854,7 +854,7 @@ a {
 		padding-left: 10px;
 		margin-left: 0;
 		text-align: left;
-		font-size: 18px;
+		font-size: 12px;
 	}
 	.pr__title::before {
 		content: '';
